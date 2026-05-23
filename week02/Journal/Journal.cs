@@ -3,7 +3,7 @@ public class Journal
 {
     // Member variable - the list that holds all entries
     public List<Entry> _entries = new List<Entry>();
-
+ 
     // Adds a new entry to the journal
     public void AddEntry(Entry entry)
     {
