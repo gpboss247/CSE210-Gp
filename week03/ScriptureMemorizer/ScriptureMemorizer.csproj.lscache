@@ -59,6 +59,10 @@ obj/Debug/net10.0/
  ScriptureMemorizer.AssemblyInfo.cs
  ScriptureMemorizer.GlobalUsings.g.cs
 Program.cs
+Reference.cs
+Scripture.cs
+ScriptureLibrary.cs
+Word.cs
 
 [metadataReferences]
 <DOTNET>/packs/Microsoft.NETCore.App.Ref/10.0.7/ref/net10.0/
