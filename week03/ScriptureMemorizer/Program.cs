@@ -46,7 +46,7 @@ class Program
     }
 
     // Tries to load a scripture from the library file.
-    // If the file is not found, falls back to a built in default scripture.
+    // If the file is not found, falls back to a built  in default scripture.
     static Scripture LoadScripture()
     {
         ScriptureLibrary library = new ScriptureLibrary();
