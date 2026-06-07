@@ -3,6 +3,8 @@
 // This program creates two orders with products and customers,
 // then displays the packing label, shipping label, and total cost for each.
 
+
+
 class Program
 {
     static void Main(string[] args)
